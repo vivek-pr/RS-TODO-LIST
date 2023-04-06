@@ -1,0 +1,22 @@
+[
+  {
+    "description": "first",
+    "complete": false
+  },
+  {
+    "description": "second",
+    "complete": false
+  },
+  {
+    "description": "i have to bring fruit",
+    "complete": true
+  },
+  {
+    "description": "i need some more things",
+    "complete": false
+  },
+  {
+    "description": "i might require you",
+    "complete": false
+  }
+]
